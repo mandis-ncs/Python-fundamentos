@@ -1,0 +1,1 @@
+#4. Um aluno iniciou seus estudos em geometria plana e, para validar se suas respostas estão corretas, solicitou sua ajuda. Sabendo que área = (base*altura)/2, construa um programa para auxiliar esse aluno
